@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/view/KebunBinatang.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/model/DataHewan.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOImplement/DataLoginImplement.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/model/ModelTabelDataHewan.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/model/ModelTabelDataPegawai.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/koneksi/Connector.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOImplement/DataPegawaiImplement.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOdata/DataPegawaiDAO.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/controller/DataPegawaiController.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/model/DataPegawai.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/view/PagePegawai.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/controller/DataHewanController.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/view/PageHewan.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOdata/DataLoginDAO.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/view/LoginPage.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/model/DataLogin.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOImplement/DataHewanImplement.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/DAOdata/DataHewanDAO.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/view/MenuPage.java</file>
+            <file>file:/D:/TUGAS!/Tugas_jurusan/SEM%204/Prak%20PBO/KebunBinatang/src/controller/DataLoginController.java</file>
+        </group>
+    </open-files>
+</project-private>
